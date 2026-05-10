@@ -6,7 +6,8 @@ Code with Codespaces
 ## Description
 This submission documents our team's completion of the **GitHub Skills: Code with Codespaces** exercise, part of MLH Global Hack Week Cloud. GitHub Codespaces is a fully configured cloud development environment that runs directly in the browser or in Visual Studio Code — no local setup needed. Through this exercise, we created and customized a codespace, learned how to configure the development container, and practiced the full cloud-based development workflow from within a GitHub repository.
 
-> 📸 Screenshot of the completed challenge and a link to our GitHub repository are included as required by the challenge.
+<img width="1176" height="888" alt="Code_with_Codespaces2" src="https://github.com/user-attachments/assets/df03a510-2aa6-4ac7-bc53-3f6ebe88a389" />
+
 
 ## Features
 - Created a **codespace from a GitHub repository** and ran the project entirely in the cloud
