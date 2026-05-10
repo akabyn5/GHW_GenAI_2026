@@ -6,7 +6,7 @@ Signup for the GitHub Student Developer Pack
 ## Description
 This submission documents our team's enrollment in the **GitHub Student Developer Pack** as part of the MLH Global Hack Week GenAI 2025. The pack unlocks access to dozens of premium developer tools at no cost — including **GitHub Copilot Pro** — empowering students to build real-world projects with professional-grade resources.
 
-https://github.com/akabyn5/GHW_GenAI_2026/blob/main/submissions/Signup%20for%20the%20GitHub%20Student%20Developer%20Pack/imagen/Captura%20de%20pantalla%202026-05-10%20024240.png?raw=true
+[https://github.com/akabyn5/GHW_GenAI_2026/blob/main/submissions/Signup%20for%20the%20GitHub%20Student%20Developer%20Pack/imagen/Captura%20de%20pantalla%202026-05-10%20024240.png?raw=true]
 
 ## Features
 - Access to **GitHub Copilot Pro** for AI-assisted coding
