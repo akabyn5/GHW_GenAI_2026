@@ -6,7 +6,8 @@ Introduction to GitHub
 ## Description
 This submission documents our team's completion of the **GitHub Skills: Introduction to GitHub** exercise, part of MLH Global Hack Week Cloud. The guided exercise walks through the core GitHub workflow — creating branches, committing changes, opening pull requests, and merging code — providing a practical, hands-on foundation for collaborative software development. The entire exercise is completed directly in a GitHub repository, with no local setup required.
 
-> 📸 Screenshot of the completed challenge and a link to our GitHub repository are included as required by the challenge.
+<img width="999" height="908" alt="Introduction_to_GitHub_3 (1)" src="https://github.com/user-attachments/assets/27236861-ad2e-43b6-87c4-5cf6f37e9e2d" />
+
 
 ## Features
 - Created and managed **branches** to isolate work from the main codebase
