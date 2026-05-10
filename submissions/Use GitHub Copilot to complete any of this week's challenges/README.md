@@ -6,7 +6,8 @@ Use GitHub Copilot to Complete This Week's Challenges
 ## Description
 This submission documents how our team used **GitHub Copilot** — accessed for free through the **GitHub Student Developer Pack** — to accelerate the completion of coding-based challenges throughout MLH Global Hack Week GenAI 2025. Rather than a single isolated exercise, this challenge captures our broader experience of integrating Copilot as an AI pair programmer across multiple builds during the week. From scaffolding components and writing authentication logic to debugging API integrations and generating boilerplate configuration, Copilot was active at every stage of our development workflow.
 
-> 💬 Our builds have been shared in a GitHub Discussion as required by the challenge, along with a link to our code repository.
+<img width="1600" height="875" alt="Use_GitHub_1" src="https://github.com/user-attachments/assets/6c1c9b56-4c7e-4209-9cf0-749da3fa540e" />
+
 
 ## Features
 - Used **Copilot inline completions** to accelerate component and function scaffolding across all week's projects
