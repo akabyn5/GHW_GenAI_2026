@@ -1,32 +1,28 @@
 
 
-## Challenge
-Signup for the GitHub Student Developer Pack
+🎉 Challenge: Signing Up for the GitHub Student Developer Pack
+Description
+During MLH Global Hack Week GenAI 2025, our team successfully activated the GitHub Student Developer Pack. This pack has been a game-changer — it gives students free access to dozens of professional tools, with GitHub Copilot Pro being the absolute highlight.
+Instead of just reading about powerful developer resources, we’re now actually using them to build better projects faster.
+✨ What We Got Access To
 
-## Description
-This submission documents our team's enrollment in the **GitHub Student Developer Pack** as part of the MLH Global Hack Week GenAI 2025. The pack unlocks access to dozens of premium developer tools at no cost — including **GitHub Copilot Pro** — empowering students to build real-world projects with professional-grade resources.
+GitHub Copilot Pro — our new AI coding partner that feels like having a senior developer sitting next to us
+Free credits and premium licenses for 100+ developer tools
+Professional workflow integrations directly inside GitHub
 
-[https://github.com/akabyn5/GHW_GenAI_2026/blob/main/submissions/Signup%20for%20the%20GitHub%20Student%20Developer%20Pack/imagen/Captura%20de%20pantalla%202026-05-10%20024240.png?raw=true]
+🛠️ Technologies We Used
 
-## Features
-- Access to **GitHub Copilot Pro** for AI-assisted coding
-- Exclusive free credits and licenses across **100+ developer tools**
-- Direct integration with GitHub repositories and student workflows
+React + Next.js
+Auth0 (authentication)
+Cloudinary (media management)
+Presage
+GitHub Copilot (heavily used during development)
 
-## Technologies Used
-- React
-- Next.js
-- Auth0
-- Cloudinary
-- Presage
-- GitHub Copilot
-
-## Installation
-```bash
-# Clone the repository
+🚀 Installation
+Bash# Clone the repository
 git clone https://github.com/<your-repo-here>.git
 
-# Navigate to the project folder
+# Navigate to the project
 cd <project-folder>
 
 # Install dependencies
@@ -34,28 +30,27 @@ npm install
 
 # Set up environment variables
 cp .env.example .env.local
-# Fill in your Auth0, Cloudinary, and other credentials in .env.local
 
 # Run the development server
 npm run dev
-```
+Open http://localhost:3000 and explore the app!
+👥 Team Members
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the app running.
+José Peñalba
+Maryfer Higuera
+José Echeverría
+Tomas Strandgard
 
-## Team Members
-- José Peñalba
-- Maryfer Higuera
-- José Echeverría
-- Tomas Strandgard
+🔗 Repository
+→ View Project on GitHub
 
-## Repository
-🔗 [GitHub Repository](https://github.com/<your-repo-here>)
+💡 What We Learned
+Applying for and activating the GitHub Student Developer Pack was eye-opening. We discovered just how many high-quality tools are available for free to students.
+GitHub Copilot Pro especially transformed our workflow. What used to take hours of searching Stack Overflow and documentation now happens in minutes. It’s not just autocomplete — it understands context, suggests clean architecture, and even helps debug. AI pair-programming went from “cool” to “essential” for us.
+We also gained solid hands-on experience with modern tools like Auth0 for secure authentication and Cloudinary for image handling in a Next.js app.
+🔮 Future Improvements
 
-## What We Learned
-Going through the GitHub Student Developer Pack process showed us just how many high-quality tools are available to students for free. Activating GitHub Copilot Pro in particular changed how we approach writing and reviewing code — AI pair-programming is no longer a nice-to-have, it's a genuine productivity multiplier. We also got hands-on experience integrating Auth0 for authentication and Cloudinary for media management within a modern Next.js stack.
-
-## Future Improvements
-- Leverage additional Student Developer Pack tools (e.g., MongoDB Atlas, Namecheap domains) in upcoming projects
-- Explore GitHub Copilot's newer features such as multi-file edits and Copilot Chat for deeper code explanations
-- Open-source the project and invite contributions from the broader MLH community
-- Add CI/CD pipelines using GitHub Actions to automate testing and deployment
+Integrate more tools from the Student Pack (MongoDB Atlas, Namecheap domains, etc.)
+Explore advanced Copilot features like multi-file edits and Copilot Chat
+Open-source the project and welcome contributions from the MLH community
+Add CI/CD with GitHub Actions for automated testing and deployment
