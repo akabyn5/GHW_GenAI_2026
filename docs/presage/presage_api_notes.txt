@@ -1,1 +1,23 @@
-no supe que hacer acá
+API endpoint: 2KiGyNQykx92UMI3BT3Fy4x5jKrRg2qW8IElTjpK
+API endpoint link: https://physiology.presagetech.com/portal/dashboard
+
+SDK links: 
+https://smartspectra.presagetech.com/
+https://presagetechnologies.com/for-developers
+
+Authentication method: Two-Factor Authentication (TOTP)
+https://physiology.presagetech.com/portal/settings
+
+Quickstart URLs:
+https://github.com/Presage-Security/SmartSpectra/tree/main/android
+https://github.com/Presage-Security/SmartSpectra/tree/main/swift
+https://github.com/Presage-Security/SmartSpectra/tree/main/cpp
+
+Limitations/free tier notes:
+- Free tier is mainly for testing and small prototype projects.
+- API usage may have request or rate limits depending on the plan.
+- Some advanced features and higher usage require a paid upgrade.
+- API keys should be kept private and never exposed publicly.
+- Free plans may have limited support and no uptime guarantees.
+- Dashboard access and API availability can change based on account status or quotas.
+- Large-scale or production usage may not be suitable on the free tier.
